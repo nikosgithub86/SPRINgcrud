@@ -1,0 +1,12 @@
+<html><-- <WISPAccessGatewayParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.acmewisp.com/WISPAccessGatewayParam.xsd">
+  <Redirect>
+    <AccessProcedure>1.0</AccessProcedure>
+    <AccessLocation></AccessLocation>
+    <LocationName></LocationName>
+    <LoginURL>https://n3.network-auth.com/splash/?mac=0C%3A8D%3ADB%3AC4%3A25%3A0E&real_ip=192.168.2.94&client_ip=10.17.13.148&client_mac=E8:9E:B4:3C:87:BD&vap=0&a=ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4&b=3021103&auth_version=5&key=72b93d3d51822df58b5cf7f8f0507612e3bd3e37&acl_ver=P77892V2&wispr=true&continue_url=http%3A%2F%2Fwww.springframework.org%2Fschema%2Fp</LoginURL>
+    <MessageType>100</MessageType>
+    <ResponseCode>0</ResponseCode>
+  </Redirect>
+</WISPAccessGatewayParam>
+ -->
+<body>You are being <a href='https://n3.network-auth.com/splash/?mac=0C%3A8D%3ADB%3AC4%3A25%3A0E&real_ip=192.168.2.94&client_ip=10.17.13.148&client_mac=E8:9E:B4:3C:87:BD&vap=0&a=ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4&b=3021103&auth_version=5&key=72b93d3d51822df58b5cf7f8f0507612e3bd3e37&acl_ver=P77892V2&continue_url=http%3A%2F%2Fwww.springframework.org%2Fschema%2Fp'>redirected</a>.</body></html>
